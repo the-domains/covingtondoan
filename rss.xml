@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[Covington Doan]]></title>
         <description><![CDATA[Covington Doan]]></description>
-        <link>https://thegrid.ai/covingtondoan/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 00:59:22 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/covingtondoan/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7be808ea-3d33-4e76-b986-cf4413550937.jpg">]]></description>
-            <link>https://thegrid.ai/covingtondoan/02a1aca3-b244-43b6-a09e-f72912d89b00/index.html</link>
-            <guid isPermaLink="false">02a1aca3-b244-43b6-a09e-f72912d89b00</guid>
-            <pubDate>Tue, 20 Oct 2015 00:59:19 GMT</pubDate>
-        </item>
+        <lastBuildDate>Tue, 20 Oct 2015 00:58:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World]]></title>
             <description><![CDATA[<article><h1>Hello World</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2237bb50-f90f-4616-9903-5e08ddc72401.jpg"></article>]]></description>
-            <link>https://thegrid.ai/covingtondoan/hello-world/index.html</link>
+            <link>undefinedhello-world/index.html</link>
             <guid isPermaLink="false">03e1a584-a40d-40fa-8f5f-ba05449752b5</guid>
             <pubDate>Tue, 20 Oct 2015 00:58:17 GMT</pubDate>
         </item>
